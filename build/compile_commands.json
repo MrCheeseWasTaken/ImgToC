@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/thele/OneDrive/Documents/Projects/img2C/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/ImgtoC.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/ImgtoC.dir/src/main.cpp.obj -c C:/Users/thele/OneDrive/Documents/Projects/img2C/src/main.cpp",
+  "file": "C:/Users/thele/OneDrive/Documents/Projects/img2C/src/main.cpp"
+}
+]
